@@ -14,7 +14,7 @@ Dodge traffic and oil barrels, collect coins for bonus points, and race as far a
 ## 🎮 Live Demo
 
 Play it directly in your browser: **[Turbo Rush — Play Now](#)**
-*(Update this link with your GitHub Pages URL, e.g. `https://aniruddhasutradhar40.github.io/turbo-rush/`)*
+*(Update this link with your GitHub Pages URL, e.g. `(https://aniruddhasutradhar40.github.io/Rudrix-Car-Game/)`)*
 
 ---
 
